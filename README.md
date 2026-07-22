@@ -1,4 +1,5 @@
 🏦 BANK LOAN APPROVAL PREDICTION
+
 📌 Project Overview
 
 This project focuses on predicting whether a loan application will be approved or rejected using Machine Learning techniques. The project involves data preprocessing, exploratory data analysis (EDA), model building, evaluation, and comparison of multiple classification algorithms to identify the best-performing model.
@@ -8,6 +9,7 @@ This project focuses on predicting whether a loan application will be approved o
 The objective of this project is to develop a predictive model that assists financial institutions in evaluating loan applications based on applicant information such as income, credit history, loan amount, and other relevant factors.
 
 🛠️ Tools & Technologies Used
+
 Python
 Pandas
 NumPy
@@ -34,6 +36,7 @@ Property Area
 Loan Status (Target Variable)
 
 🧹 Data Preprocessing
+
 Handled missing values using Mode and Median Imputation
 Removed unnecessary columns such as Loan_ID
 Encoded categorical variables using Label Encoding
