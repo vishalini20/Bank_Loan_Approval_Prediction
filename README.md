@@ -127,4 +127,5 @@ Author
 Vishalini O
 B.Sc. Data Science
 PSGR Krishnammal College for Women, Coimbatore
-Aspiring Data Analyst | Excel | Power BI | Tableau | Python | SQL | Machine Learning 📊🚀
+
+Aspiring Data Analyst | Excel | Power BI | Tableau | Python | SQL | Machine Learning | Data Visualization 📊🚀
